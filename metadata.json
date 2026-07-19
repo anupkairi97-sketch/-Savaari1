@@ -1,0 +1,6 @@
+{
+  "name": "Savaari",
+  "description": "Savaari is a localized ride-booking platform supporting passenger ride requests, voice-activated destination entry, language localizations (English, Hindi, Bengali, Assamese), and driver dashboards with simulated routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
